@@ -14,10 +14,10 @@
 <p>The program then draws quantities q1 and q2 of threads, obeying 7 <= (q1,q2) <= 22 and creates them. q1 will be the number of "tothestart" threads and q2 the number of "totheend" threads.</p>
 <p>The threads are created alternately, so that none has an advantage over the other on the competition.</p>
 <p>After the threads are created, the main thread will continue to run concurrently with them an execution loop with the following commands:</p>
-*Clear the screen: system("clear");
-*Print q1 and q2: printf("tothestart: %d\ttotheend: %d\n", q1, q2);</p>
-*Print the array:  printf("%s\n", a);
-*Test the character position (x) of your name. If it reaches the beginning (0), or the end (86-2), it will display a message pointing to the winning thread team (totheend or tothestart) and then end the game.
+* Clear the screen: system("clear");
+* Print q1 and q2: printf("tothestart: %d\ttotheend: %d\n", q1, q2);
+* Print the array:  printf("%s\n", a);
+* Test the character position (x) of your name. If it reaches the beginning (0), or the end (86-2), it will display a message pointing to the winning thread team (totheend or tothestart) and then end the game.
 <p>At each execution, the main thread sleeps for an adjusted period of time so as not to overload the processing.</p>
 
 ## <ins>How to use </ins>
