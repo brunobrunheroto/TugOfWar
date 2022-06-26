@@ -84,11 +84,11 @@ int main(int argc, char **argv) {
         printf("%s\n", a);
         if(x == 0){
             loop = 0;
-            printf("tothestart é a vencedora! \n");
+            printf("tothestart is the winner! \n");
         }
         if(x+2 == 86){
             loop = 0;
-            printf("totheend é a vencedora! \n");
+            printf("totheend is the winner! \n");
         }
         // As requested in the task, the main thread will sleep for a while so as not to overload the processing.
         sleep(0.5);
