@@ -32,4 +32,4 @@
 ![TugOfWar](https://user-images.githubusercontent.com/67275098/175830228-f6e61e7c-8497-4ad0-854f-f47b90b85fd5.gif)
 
 ## <ins>Credits</ins>
-<p> The ideia to make this project and it's structure was shared by the teacher of Operating Systems at Facamp, José Martins Junior.</p>
+<p> The ideia to work on this project and it's structure was shared by the teacher of Operating Systems at Facamp, José Martins Junior.</p>
