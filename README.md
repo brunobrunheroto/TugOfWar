@@ -1,8 +1,8 @@
 # Tug Of War
-<p>Tug of war is a project made is C language that demonstrates the dispute between different threads for the position of a flag in an array filled with underscore characters "_".</p>
+<p>Tug of war is a project done in C language that demonstrates the dispute between different threads for the position of a flag in an array filled with underscore characters "_".</p>
 
 ## <ins>Goals</ins>
-<p>This project was made for academic purposes and aims to demonstrate how threads work and how they behave during runtime.</p>
+<p>This project was done for academic purposes and aims to demonstrate how threads work and how they behave during runtime.</p>
 
 ## <ins>How it works</ins>
 <p>Initially, an array of 88 positions is created and filled with underscore characters "_". The flag, formed by three characters "ABC", is then placed exactly in the middle of the array, at positions 42, 43 and 44. The last position of the array will always be a character "\0" (string terminator).</p>
